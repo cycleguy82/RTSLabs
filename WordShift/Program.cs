@@ -15,7 +15,7 @@ namespace WordShift
             }
             string num = string.Empty;
 
-            //because when the last time you actually used a do-while  :)
+            //because when was the last time you actually used a do-while  :)
             do
             {
                 StringBuilder st = new StringBuilder();
