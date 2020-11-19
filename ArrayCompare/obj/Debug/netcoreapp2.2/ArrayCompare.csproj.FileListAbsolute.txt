@@ -1,0 +1,11 @@
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\bin\Debug\netcoreapp2.2\ArrayCompare.deps.json
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\bin\Debug\netcoreapp2.2\ArrayCompare.runtimeconfig.json
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\bin\Debug\netcoreapp2.2\ArrayCompare.runtimeconfig.dev.json
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\bin\Debug\netcoreapp2.2\ArrayCompare.dll
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\bin\Debug\netcoreapp2.2\ArrayCompare.pdb
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.csproj.CoreCompileInputs.cache
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.AssemblyInfoInputs.cache
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.AssemblyInfo.cs
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.dll
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.pdb
+C:\Users\cshaw-v\source\repos\WordShift\ArrayCompare\obj\Debug\netcoreapp2.2\ArrayCompare.csprojAssemblyReference.cache
